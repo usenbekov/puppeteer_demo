@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Altynbek Usenbekov",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.1.1"
+  },
+  "type": "module"
+}
